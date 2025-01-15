@@ -1,0 +1,28 @@
+
+
+nav {
+    display: flex;
+    font-size: 32px;
+    font-weight: 700;
+    font: bold;
+
+    
+    justify-content: space-between;
+    align-items: center;
+
+
+button{
+    margin: 0px 10px;
+    border-radius: 8px;
+    box-sizing: border-box;
+     border-color:  rgb(0, 106, 80);
+     gap: 48;
+     position: static;
+     padding: 15px 30px 15px 30px;
+     
+     width: 116px;
+     height: 52px;
+     flex-direction: row;
+     color:  rgb(0, 106, 80);; 
+     
+}
